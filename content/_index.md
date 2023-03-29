@@ -5,11 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - design:
-      background:
-        gradient_end: '#1976d2'
-        gradient_start: '#004ba0'
-        text_color_light: true
+  - block: hero
   - block: about.avatar
     id: about
     content:
